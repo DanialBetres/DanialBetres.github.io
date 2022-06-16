@@ -4,4 +4,4 @@
 
 #### name: Danial Betres
 
-#### name: danialbet@gmail.com
+#### email: danialbet@gmail.com
